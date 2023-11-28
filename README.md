@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;<br>
 (3) Database :
 <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySql&logoColor=#4479A1"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=#4479A1"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Hibernate(JPA)-59666C?style=flat-square&logo=Hibernate&logoColor=#4479A1"/></a>&nbsp;
 
 
 
