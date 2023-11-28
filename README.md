@@ -1,7 +1,7 @@
 ## Contact &nbsp;Here!&nbsp;👋
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 기술 블로그 : https://twojun-space.tistory.com <br> 
-Contact E-mail : twojunspace@naver.com <br> 
-GitHub : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftwojun%2Fhit-counter&count_bg=%23377AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITOR&edge_flat=true)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a><br>기술 블로그 : https://twojun-space.tistory.com <br><br>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>E-mail : twojunspace@naver.com <br><br>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><br>GitHub : [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftwojun%2Fhit-counter&count_bg=%23377AFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITOR&edge_flat=true)](https://hits.seeyoufarm.com)
  <br> 
  <br> 
  <br>
@@ -23,10 +23,13 @@ Here are some ideas to get you started:
 
 
 ## 💻&nbsp; Back-end&nbsp; 💻
+(1) Language : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;<br>
+(2) Framework : 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;<br>
-<img src="https://img.shields.io/badge/MySQL-E6B91E?style=flat-square&logo=MySql&logoColor=#4479A1"/></a>&nbsp;
+(3) Database :
+<img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySql&logoColor=#4479A1"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=#4479A1"/></a>&nbsp;
 
 
