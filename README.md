@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-## &nbsp; Back-end Stacks&nbsp; 
+## Back-end Stacks&nbsp; 
 (1) Language : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;<br>
 (2) Framework : 
